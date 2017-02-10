@@ -6,7 +6,6 @@
 	<title>round1</title>
   <link href="./round1.css" rel="stylesheet" type="text/css">
     	<style type="text/css">
-
    	</style>
 </head>
 <body>
